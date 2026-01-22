@@ -30,11 +30,11 @@ https://rinslider.com
 
 ### CSS
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/DEINUSER/rin-slider-cdn@v1.0.0/rin-slider.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rin-ws/rin-slider-cdn@v1.0.0/slider.min.css">
 ```
 ### JavaScript
 ```
-<script src="https://cdn.jsdelivr.net/gh/DEINUSER/rin-slider-cdn@v1.0.0/rin-slider.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/rin-ws/rin-slider-cdn@v1.0.0/slider.min.js"></script>
 ```
 ## 🚀 Quick Start
 ```
