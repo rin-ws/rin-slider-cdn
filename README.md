@@ -1,6 +1,6 @@
 # RINslider
 
-**Sprachen / Languages:**  🇩🇪 Deutsch | 🇬🇧 [English](readme.en.md) | 🇪🇸 Español | 🇫🇷 Français | 🇯🇵 日本語 | 🇰🇷 한국어
+**Sprachen / Languages:**  🇩🇪 Deutsch | 🇬🇧 [English](readme.en.md) | 🇪🇸 [Español](readme.es.md) | 🇫🇷 [Français](readme.fr.md) | 🇯🇵 [日本語](readme.jp.md) | 🇰🇷 [한국어](readme.kr.md)
 
 ---
 
