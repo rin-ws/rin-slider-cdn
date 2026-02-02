@@ -6,7 +6,7 @@
 
 Ein bewusst schlanker Vanilla-JavaScript Slider für moderne Websites – performant, zugänglich und ohne externe Abhängigkeiten.
 
-Dieses Repository stellt **die fertigen CDN-Builds** von RINslider bereit.
+Dieses Repository stellt ausschließlich **die fertigen CDN-Builds** von RINslider bereit.
 
 🔍 **Vollständiger, unminifizierter Quellcode (Open Source):**  
 https://de.rinslider.com/open-code/
