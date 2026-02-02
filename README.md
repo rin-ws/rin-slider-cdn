@@ -8,6 +8,9 @@ Ein bewusst schlanker Vanilla-JavaScript Slider für moderne Websites – perfor
 
 Dieses Repository stellt **die fertigen CDN-Builds** von RINslider bereit.
 
+🔍 **Vollständiger, unminifizierter Quellcode (Open Source):**  
+https://de.rinslider.com/open-code/
+
 ---
 
 ## ✨ Features
@@ -109,6 +112,4 @@ Alle Features bleiben frei verfügbar – Support ist optional.
 MIT
 
 ## 🔗 Link
-- RINslider Entwickler WIki: (kommt in kürze)
-
-- RINslider Open Code: (kommt in kürze) 
+- RINslider WIki: https://de.rinslider.com/wiki/
